@@ -1,0 +1,14 @@
+C:\Users\igorn\source\repos\first game\bin\Debug\net8.0\first game.exe
+C:\Users\igorn\source\repos\first game\bin\Debug\net8.0\first game.deps.json
+C:\Users\igorn\source\repos\first game\bin\Debug\net8.0\first game.runtimeconfig.json
+C:\Users\igorn\source\repos\first game\bin\Debug\net8.0\first game.dll
+C:\Users\igorn\source\repos\first game\bin\Debug\net8.0\first game.pdb
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\first game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\first game.AssemblyInfoInputs.cache
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\first game.AssemblyInfo.cs
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\first game.csproj.CoreCompileInputs.cache
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\first game.dll
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\refint\first game.dll
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\first game.pdb
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\first game.genruntimeconfig.cache
+C:\Users\igorn\source\repos\first game\obj\Debug\net8.0\ref\first game.dll
